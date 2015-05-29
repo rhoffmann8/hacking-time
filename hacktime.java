@@ -39,13 +39,13 @@ warp.accesDimension(4);
 for (int i = 0 ; i < warp.getGoal() ; i++) {
     double e = Math.power( m*c , 2);
     warp.hackTime();
-    warp.advance(1.toTimeInterval());
+    warp.advance(i.toTimeInterval());
 // The first column ends here, following code is on the second column
 warp.accesDimension(4);
 for (int i = 0 ; i < warp.getGoal() ; i++) {
     double e = Math.power( m*c , 2);
     warp.hackTime();
-    warp.advance(1.toTimeInterval());
+    warp.advance(i.toTimeInterval());
     sdfsdfsdfjadnfkjafnajklnasdkljfnasdfjkasndfjklasnfjklasnfkljasdnklasdjnagdngfjklasdnadklgnjasdk
 
 // We catch another glimpse at the E = mc2 CONVERTER at (10:49), but again
